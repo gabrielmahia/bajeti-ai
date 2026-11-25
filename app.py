@@ -119,4 +119,4 @@ if st.button("🤖 Eleza Bajeti Hii kwa AI", key="ai_btn"):
     st.markdown(f"""<div class="budget-card">{analysis.replace(chr(10), "<br>")}</div>""", unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("📊 Bajeti AI v1.0 | Data: DEMO — synthetic | Kwa data halisi: opendata.go.ke | CC BY-NC-ND 4.0")
+st.caption("📊 Bajeti AI v1.0 | Data: DEMO — synthetic | Kwa data halisi: opendata.go.ke | MIT")
